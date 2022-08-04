@@ -1,4 +1,4 @@
-<h3 align="center">Front-end разработчик</h3>
+<h3 align="center">FullStack разработчик</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tesorro&label=Profile%20views&color=0e75b6&style=flat" alt="tesorro" /> </p>
 

@@ -4,8 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tesorro" alt="tesorro" /></a> </p>
 
-- 🔭 В данный момент работаю над [Тестовое задание](https://github.com/Tesorro/testapp01082022)
-
 - 🌱 Изучаю **Typescript**
 
 - 👨‍💻 Мои проекты [https://github.com/Tesorro?tab=repositories](https://github.com/Tesorro?tab=repositories)
